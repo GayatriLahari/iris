@@ -5,7 +5,7 @@
 ## Repo structure
 ```
 iris-viz/
-├─ iris_visualization.ipynb
+├─ visualize.ipynb
 ├─ iris.csv
 ├─ images/
 │  ├─ Sepal_Width_by_Species.png
