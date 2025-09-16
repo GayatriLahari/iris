@@ -17,22 +17,29 @@ iris-viz/
 └─ README.md
 ```
 
-## Sample plots (screenshots)
+## PLOTS
+
+## Correlation_Between_Iris_Features
 
 ![Correlation_Between_Iris_Features](images/Correlation_Between_Iris_Features.png)
 
+## Count_of_Each_Iris_Species
 
 ![Count_of_Each_Iris_Species](images/Count_of_Each_Iris_Species.png)
 
+## Density_Plot_of_Sepal_Length_vs_Petal_Length
 
 ![Density_Plot_of_Sepal_Length_vs_Petal_Length](images/Density_Plot_of_Sepal_Length_vs_Petal_Length.png)
 
+## Petal_Length_Distribution_by_Species
 
 ![Petal_Length_Distribution_by_Species](images/Petal_Length_Distribution_by_Species.png)
 
+## Petal_Width_by_Specie
 
 ![Petal_Width_by_Species](images/Petal_Width_by_Species.png)
 
+## Sepal_Width_by_Species
 
 ![Sepal_Width_by_Species](images/Sepal_Width_by_Species.png)
 
